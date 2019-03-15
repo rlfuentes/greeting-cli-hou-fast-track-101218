@@ -1,5 +1,5 @@
 def greeting(persons_name)
-  puts "Hello #{persons_name}. It's nice to meet you."
+  puts "Hello #{persons_name}.\t It's nice to meet you.\n"
 
 
 end
