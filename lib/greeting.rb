@@ -1,4 +1,4 @@
-def greeting(persons_name)
+def greeting = persons_name
   puts "Hello #{persons_name}.\t It's nice to meet you.\n"
 
 
